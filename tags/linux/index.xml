@@ -5,7 +5,7 @@
     <link>https://litwak913.github.io/tags/linux/</link>
     <description>Recent content in Linux on 913 的试验场</description>
     <generator>Hugo -- 0.139.3</generator>
-    <language>zh-hans</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 01 Dec 2024 22:33:27 +0800</lastBuildDate>
     <atom:link href="https://litwak913.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>https://litwak913.github.io/post/nautilus-background/</link>
       <pubDate>Sun, 01 Dec 2024 22:33:27 +0800</pubDate>
       <guid>https://litwak913.github.io/post/nautilus-background/</guid>
-      <description>通过修改 CSS，给 Nautilus 及 GTK 应用的文件选择加个背景。</description>
+      <description>通过修改 CSS，给 Nautilus 加个背景。</description>
     </item>
   </channel>
 </rss>
