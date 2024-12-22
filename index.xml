@@ -4,7 +4,7 @@
     <title>913 的试验场</title>
     <link>https://litwak913.github.io/</link>
     <description>Recent content on 913 的试验场</description>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>zh-cn</language>
     <copyright>CC BY-NC-SA 4.0</copyright>
     <lastBuildDate>Sat, 07 Dec 2024 23:45:47 +0800</lastBuildDate>
@@ -31,7 +31,7 @@
       <description>&lt;h1 id=&#34;关于此博客&#34;&gt;关于此博客&lt;/h1&gt;
 &lt;p&gt;所有文章均以 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt; 协议发布。&lt;/p&gt;
 &lt;h1 id=&#34;友情链接&#34;&gt;友情链接&lt;/h1&gt;
-&lt;div class=&#34;myfriends&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;myfriends&#34;&gt;
     
 
 &lt;p&gt;&lt;a target=&#34;_blank&#34; href=https://blog.harryh.cn title=Harry&amp;#32;Huang class=&#34;friendurl&#34;&gt;&lt;/p&gt; 
@@ -45,7 +45,19 @@
     &lt;/div&gt;&lt;/a&gt;
 
 
-&lt;/div&gt;</description>
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=https://blog.0w0.ing title=iceBear67 class=&#34;friendurl&#34;&gt;&lt;/p&gt; 
+	&lt;div class=&#34;frienddiv&#34;&gt;
+      &lt;div class=&#34;frienddivleft&#34;&gt;
+        &lt;img class=&#34;myfriend&#34; src=icebear.png /&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;frienddivright&#34;&gt;
+        iceBear67&lt;br /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;&lt;/a&gt;
+
+
+&lt;/div&gt;
+欢迎在评论区申请友链。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
