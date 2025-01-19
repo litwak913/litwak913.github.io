@@ -4,11 +4,18 @@
     <title>913 的试验场</title>
     <link>https://litwak913.github.io/</link>
     <description>Recent content on 913 的试验场</description>
-    <generator>Hugo -- 0.140.0</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>zh-cn</language>
     <copyright>CC BY-NC-SA 4.0</copyright>
-    <lastBuildDate>Sat, 07 Dec 2024 23:45:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 15:16:48 +0800</lastBuildDate>
     <atom:link href="https://litwak913.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>将基于 Ren&#39;Py 的游戏移植到 Linux</title>
+      <link>https://litwak913.github.io/post/renpy-game-linux-port/</link>
+      <pubDate>Fri, 10 Jan 2025 15:16:48 +0800</pubDate>
+      <guid>https://litwak913.github.io/post/renpy-game-linux-port/</guid>
+      <description>在 Linux 运行 Ren&amp;rsquo;Py 游戏的简要说明。</description>
+    </item>
     <item>
       <title>JNA 调用 Win32 COM 接口</title>
       <link>https://litwak913.github.io/post/jna-win32-com/</link>
