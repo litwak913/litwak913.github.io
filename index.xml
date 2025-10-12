@@ -4,11 +4,18 @@
     <title>913 的试验场</title>
     <link>https://litwak913.github.io/</link>
     <description>Recent content on 913 的试验场</description>
-    <generator>Hugo -- 0.148.2</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>zh-cn</language>
     <copyright>CC BY-NC-SA 4.0</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 15:16:48 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 22:15:17 +0800</lastBuildDate>
     <atom:link href="https://litwak913.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>将 Spine Runtime 3.8 移植到 Godot</title>
+      <link>https://litwak913.github.io/post/godot-spine38/</link>
+      <pubDate>Sun, 12 Oct 2025 22:15:17 +0800</pubDate>
+      <guid>https://litwak913.github.io/post/godot-spine38/</guid>
+      <description>简单记录了将 Spine Runtime 3.8 移植到 Godot 的过程。</description>
+    </item>
     <item>
       <title>将基于 Ren&#39;Py 的游戏移植到 Linux</title>
       <link>https://litwak913.github.io/post/renpy-game-linux-port/</link>
